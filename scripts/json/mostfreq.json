@@ -1,0 +1,27 @@
+[
+    {
+        "count": 18, 
+        "sig_name": "Snort Alert [1:10000001:1]", 
+        "signature": 509
+    }, 
+    {
+        "count": 12, 
+        "sig_name": "Snort Alert [1:5000003:1]", 
+        "signature": 510
+    }, 
+    {
+        "count": 8, 
+        "sig_name": "Snort Alert [1:5846173:1]", 
+        "signature": 513
+    }, 
+    {
+        "count": 7, 
+        "sig_name": "Snort Alert [1:5000005:1]", 
+        "signature": 511
+    }, 
+    {
+        "count": 4, 
+        "sig_name": "Snort Alert [1:5136626:1]", 
+        "signature": 512
+    }
+]

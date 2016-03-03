@@ -1,0 +1,7 @@
+# alert icmp any any -> any any (msg:"ICMP test"; priority:10; sid:5000001; rev:001;)
+# alert tcp any any -> any any (msg:”Sample alert”; priority:8; sid:5000002; rev:1;)
+alert icmp 124.176.22.107 any -> any any (msg:"ICMP test 2"; priority:5; sid:5000003; rev:01;)
+alert tcp any any -> any any (msg:”Sample alert”; priority:8; sid:5000002; rev:1;)
+alert icmp 192.168.1.1 any -> any any (msg:Test from script; priority:10; sid:5000001;)
+log tcp any any <- any any (msg:Test 2 from script; priority:8; sid:5000005;)
+log tcp any any <- any any (msg:Test 2 from script; priority:8; sid:5000006;)

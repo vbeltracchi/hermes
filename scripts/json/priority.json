@@ -1,0 +1,52 @@
+[
+    {
+        "timestamp": "2015-08-02 21:00:52", 
+        "sig_priority": 5, 
+        "cid": 6398
+    }, 
+    {
+        "timestamp": "2015-08-02 21:00:51", 
+        "sig_priority": 5, 
+        "cid": 6397
+    }, 
+    {
+        "timestamp": "2015-08-02 21:00:50", 
+        "sig_priority": 5, 
+        "cid": 6396
+    }, 
+    {
+        "timestamp": "2015-08-02 21:00:49", 
+        "sig_priority": 5, 
+        "cid": 6395
+    }, 
+    {
+        "timestamp": "2015-08-02 21:00:48", 
+        "sig_priority": 5, 
+        "cid": 6394
+    }, 
+    {
+        "timestamp": "2015-08-02 17:38:34", 
+        "sig_priority": 5, 
+        "cid": 6393
+    }, 
+    {
+        "timestamp": "2015-08-02 17:38:33", 
+        "sig_priority": 5, 
+        "cid": 6392
+    }, 
+    {
+        "timestamp": "2015-08-02 17:38:32", 
+        "sig_priority": 5, 
+        "cid": 6391
+    }, 
+    {
+        "timestamp": "2015-08-02 17:38:31", 
+        "sig_priority": 5, 
+        "cid": 6390
+    }, 
+    {
+        "timestamp": "2015-08-02 17:38:30", 
+        "sig_priority": 5, 
+        "cid": 6389
+    }
+]

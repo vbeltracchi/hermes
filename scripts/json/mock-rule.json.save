@@ -1,0 +1,1 @@
+[{"action": "alert", "protocol": "icmp", "sourceip": "192.168.1.1", "sourceport": "any", "direction" : "->", "destinationip": "any", "destinationport": "an$
